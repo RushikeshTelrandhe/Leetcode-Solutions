@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0073-set-matrix-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
