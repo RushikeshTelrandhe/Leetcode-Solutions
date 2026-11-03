@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
