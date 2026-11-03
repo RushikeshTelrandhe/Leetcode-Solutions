@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
