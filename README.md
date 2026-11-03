@@ -38,6 +38,7 @@
 | [1366-rank-teams-by-votes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
