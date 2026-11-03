@@ -24,6 +24,7 @@
 | [0009-palindrome-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0048-rotate-image) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
