@@ -35,6 +35,7 @@
 | [0704-binary-search](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1366-rank-teams-by-votes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1366-rank-teams-by-votes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0088-merge-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [1366-rank-teams-by-votes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,10 +150,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [1366-rank-teams-by-votes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1366-rank-teams-by-votes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
