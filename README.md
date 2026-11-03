@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0088-merge-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
