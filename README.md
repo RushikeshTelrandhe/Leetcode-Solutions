@@ -17,6 +17,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 | ------- |
 | [0015-3sum](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0018-4sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
