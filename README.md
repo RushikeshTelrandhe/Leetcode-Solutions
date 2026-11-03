@@ -32,6 +32,7 @@
 | [0493-reverse-pairs](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0268-missing-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
