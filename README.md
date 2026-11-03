@@ -25,6 +25,7 @@
 | [0136-single-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0069-sqrtx](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 ## Matrix
 |  |
 | ------- |
