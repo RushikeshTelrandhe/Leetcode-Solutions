@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +56,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
