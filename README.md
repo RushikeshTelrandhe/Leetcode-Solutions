@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0595-big-countries](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0595-big-countries) |
 ## Number Theory
 |  |
 | ------- |
