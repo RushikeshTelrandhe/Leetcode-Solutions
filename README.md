@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,12 +39,14 @@
 | [0018-4sum](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,8 +84,13 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
