@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0162-find-peak-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
