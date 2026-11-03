@@ -44,6 +44,7 @@
 | [0050-powx-n](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Quicksort
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0183-customers-who-never-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
