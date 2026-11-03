@@ -16,10 +16,12 @@
 | [0053-maximum-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Recursion
 |  |
 | ------- |
