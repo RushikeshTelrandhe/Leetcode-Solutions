@@ -26,11 +26,13 @@
 | [0152-maximum-product-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0056-merge-intervals](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +119,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
