@@ -128,6 +128,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1366-rank-teams-by-votes](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 ## Counting
@@ -202,4 +204,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RushikeshTelrandhe/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
